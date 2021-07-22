@@ -1,11 +1,6 @@
 # Todo List
 
 A todo list app built with React, Redux, TypeScipt, LESS and Ant Design
-
-## Demo
-
-[Demo is here]()
-
 ## Usage
 
 Clone this `repo`:
